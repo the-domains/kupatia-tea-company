@@ -1,4 +1,3 @@
-layout_spectrum: 0.26876385463401675
 typography_spectrum: 0.7191693224012852
 color:
   brandStrength: 0.5645732760895044
@@ -11,4 +10,6 @@ color:
     - '#A79763'
     - '#99022F'
     - '#0076D3'
+layout_spectrum: 0.26876385463401675
 name: Kupatia Tea Company
+title: The Giving Tea
